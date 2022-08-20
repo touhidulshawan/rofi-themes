@@ -3,9 +3,10 @@
 Quick collection of a few rofi configs I have created.
 
 ## Installation
+```github.com/joni22u``` user not found in github anymore. So
 
-Clone this repo
-```git clone https://github.com/joni22u/rofi-themes```. 
+Clone this repo using
+```git clone https://github.com/touhidulshawan/rofi-themes```. 
 Then copy  the contents of folders into ```~/.config/rofi/```.
 
 Example
